@@ -17,4 +17,9 @@ img.card-img-top.girar {
 }
 body {
   padding-bottom: 70px;
+  background-color: black;
+}
+center, h1{
+    background-color: white;
+    
 }
